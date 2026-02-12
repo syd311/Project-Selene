@@ -1,13 +1,14 @@
 #  Project Selene: Autonomous Lunar Lander
 
 
-> **An AI pilot that taught itself to land on the Moon through 500,000 steps of trial and error.**
+ **An AI pilot that taught itself to land on the Moon through 500,000 steps of trial and error.**
 
 ---
 
 ##  Demonstration
 
 ![Autonomous Landing Demo](mission_footage/project_selene_ace_landing-episode-0.gif)
+
 *Above: The fully trained "Ace Pilot" agent executing a perfect suicide burn and soft touchdown.*
 
 ---
